@@ -1,0 +1,11 @@
+balaji Restaurant
+********************
+item        rate         quantity       price 
+                                             
+
+ paneer tika 220/- 	4	880
+ butter naan 50/- 	8	400
+ momos 100/- 	4	400
+ chowmein 50/- 	4	200                                             
+total bill=1880.0
+                                             
